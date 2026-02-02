@@ -1,4 +1,4 @@
-
+//find the factorial of a number
 import java.util.Scanner;
 
 public class Function4 {
