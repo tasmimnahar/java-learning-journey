@@ -1,4 +1,4 @@
-//
+// add 2 number and return the sum
 import java.util.Scanner;
 
 public class Function2 {
