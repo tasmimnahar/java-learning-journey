@@ -10,6 +10,7 @@ public class FunctionE1 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        System.out.println(" Average :"+ average(a, b, c));
+        System.out.println("Average :"+ average(a, b, c));
+         
     }
 }
