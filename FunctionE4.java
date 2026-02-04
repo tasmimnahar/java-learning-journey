@@ -15,8 +15,4 @@ import java.util.Scanner;
         double area = calculateArea(r);
         System.out.println("Area of the circle: " + area);
     }
-
-
-
 }
-
